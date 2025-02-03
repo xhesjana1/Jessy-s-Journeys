@@ -22,21 +22,41 @@ body {
 
 /*header*/
 header {
-    position: fixed;
+    display: flex;
     z-index: 100;
+    position: fixed;
     width: 100%;
-    box-shadow: 0 2px 1px rgb(167, 167, 167);
+    box-shadow: 0 2px 1px #3a3a3a;
+    background-color: #ffffff;
+    padding: 0 1 rem;
+    align-items: baseline;
+    justify-content: space-between;
+    
 }
 
 header a {
     text-decoration: none;
-    color: inherit;
-    text-align: center;
-    top: auto;
+    color: inherit;  
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+
+}
+
+/*Navbar*/
+nav {
+    position:absolute;
+    width: 100%;
+    padding: 0, 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    background-color: white;
+    display: none;
+    left: 0;
+    top: 100%;
+    
 }
 
 nav ul {
@@ -46,31 +66,47 @@ nav ul {
     margin: 0;
 }
 
-nav li {
-    font-size: 1.3em;
-    line-height: 25px;
-    height: 25px;
-    display: inline-block;
-    margin: 2.0%;
-}
-
 nav a {
     text-decoration: none;
     color: black;
     display: block;
 }
-
 nav a:hover {
     background-color: white;
+}
+
+/*Navbar toggle*/
+#nav-toggle:checked ~ nav {
+    display: block;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+#menu {
+    list-style-type: none;
+    font-size: 100%;
+}
+
+#menu > li {
+    margin-bottom: 1em;
 }
 
 /*Main content*/
 main {
     /*Main element is taking up surplus space and pushing the footer down*/
     flex: 1 0 auto;
+    margin-top: 60px;
+    
+    
 }
 
 /*Footer*/
 footer {
-    background-color: lightgray;
+    background-color: white;
 }
