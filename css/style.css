@@ -47,13 +47,12 @@ h1 {
 nav {
     position:absolute;
     width: 100%;
-    padding: 0, 1rem;
+    padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     background-color: white;
     display: none;
     left: 0;
     top: 100%;
-    
 }
 
 nav ul {
@@ -64,9 +63,9 @@ nav ul {
 }
 
 nav a {
-    text-decoration: none;
     color: black;
     display: block;
+    text-align: left;
 }
 
 nav a:hover {
