@@ -1,4 +1,4 @@
-/* Asterisk wildcard selector to override default styles added */
+/*Asterisk wildcard selector to override default styles added*/
 * {
     padding: 0;
     margin: 0;
@@ -11,6 +11,10 @@ body {
     padding: 0;
     font-family: sans-serif;
     background-color: rgb(253, 253, 252);
+    /*Generic project style*/
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 nav ul {
@@ -37,4 +41,15 @@ nav a {
 
 nav a:hover {
     background-color: white;
+}
+
+/*Main content*/
+main {
+    /*Main element is taking up surplus space and pushing the footer down*/
+    flex: 1 0 auto;
+}
+
+/*Footer*/
+footer {
+    background-color: lightgray;
 }
