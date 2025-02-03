@@ -70,7 +70,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: white;
+    background-color: #a19c9c;
 }
 
 /*Navbar toggle*/
@@ -118,4 +118,36 @@ footer {
 #social-networks-icon i {
     color: black;
     font-size: x-large; 
+}
+
+/* Media query: tablets (768px and up) */
+@media screen and (min-width: 768px) {
+   /* Header */ 
+   nav {
+    display: block;
+    position: relative;
+    width: fit-content;
+    padding-right: 1rem;
+    box-shadow: none;
+   }
+
+   #menu {
+    display: flex
+   }
+
+   #menu > li {
+    padding-left: 2rem;
+    font-size: large;
+   }
+
+   .nav-toggle-label {
+    display: none;
+   }
+}
+
+/* Media query: (laptops 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover{
+        border-bottom: 1px solid #a19c9c;
+    }
 }
