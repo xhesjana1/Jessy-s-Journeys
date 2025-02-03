@@ -110,3 +110,17 @@ main {
 footer {
     background-color: white;
 }
+
+#social-networks-icon {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    text-align: center;
+    list-style-type: none;
+}
+
+#social-networks-icon i {
+    color: black;
+    font-size: x-large;
+    
+}
