@@ -6,7 +6,7 @@ This website is about tips and tricks for traveling around the world, including 
 Favicons - taken from https://realfavicongenerator.net/
 Social media icons are taken from font awesome - https://fontawesome.com/kits/bede36f393/download
 The idea for designing the footer icons was inspired by the Love Running project, as it enhances the footer's visual appeal.
-
+The Hero URL in style.css was taken in Cambodia by me while traveling.
 
 
 
