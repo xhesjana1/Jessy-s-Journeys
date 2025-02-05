@@ -122,8 +122,18 @@ main {
     border-radius: 5px;
     width: 100%;
     position: absolute;
-    top:auto
+    top: auto;
 }
+
+#about {
+    background-color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+
+#about h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 
 /*Footer*/
 footer {
