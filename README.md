@@ -7,7 +7,11 @@ Favicons - taken from https://realfavicongenerator.net/
 Social media icons are taken from font awesome - https://fontawesome.com/kits/bede36f393/download
 The idea for designing the footer icons was inspired by the Love Running project, as it enhances the footer's visual appeal.
 The Hero URL in style.css was taken in Cambodia by me while traveling.
-
+The div class container in the footer was taken from Bootstrap https://getbootstrap.com/
+The main section div id about the code was taken from https://getbootstrap.com/
+The jessy-about-me image was taken in uluru Australia from me
+The text in the <div class="container"> in the footer was my inspiration, but ChatGPT has corrected the grammar for me.
+The text in the main section <div id="about"> was my inspiration, but ChatGPT has corrected the grammar for me.
 
 
 
