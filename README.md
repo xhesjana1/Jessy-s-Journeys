@@ -12,7 +12,8 @@ The main section div id about the code was taken from https://getbootstrap.com/
 The jessy-about-me image was taken in uluru Australia from me
 The text in the <div class="container"> in the footer was my inspiration, but ChatGPT has corrected the grammar for me.
 The text in the main section <div id="about"> was my inspiration, but ChatGPT has corrected the grammar for me.
-
+The form code in about.html was taken by bootstrap https://getbootstrap.com/
+The idea for the form in about.html and its modifications was inspired by the Code Institute challenge called Portfolio. I modified it slightly with ChatGPT to add a required section I also added another line to the form based on my own idea to ensure it aligns with what I want to display on my website. Additionally, I thought it would be nice for the user to receive a congratulations page upon submitting the form. In one of the lessons at Code Institute, I learned that if I pass the link template with POST, I would achieve that result. I incorporated this into Bootstrap so the form retains its styling while also directing the user to the congratulations page.
 
 
 
