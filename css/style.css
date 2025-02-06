@@ -103,7 +103,7 @@ main {
 }
 /*Hero image section*/
 #hero {
-    height:100vh;
+    height: 80vh;
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center/cover;
 }
@@ -134,14 +134,22 @@ main {
     font-family: 'Times New Roman', Times, serif;
 }
 
-/*Main section about.html site*/
-#about-hero-image {
-    background: url("../images/jessy-about-me.jpg") no-repeat center center/cover;
-    height:100vh;
-    width: 100%;
-
+/*Main section in about.html site*/
+#about-hero-image{
+    color: orchid;
+    border-radius: 50%;
+    background: rgba(248, 207, 207, 0.7);
+    width: 500px;
+    height: 500px;
+    display: list-item;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    object-fit: cover;
+    padding: 100px;
+    box-sizing: border-box;
 }
-
 
 /*Footer*/
 footer {
@@ -165,6 +173,7 @@ footer {
     object-fit: cover;
     height: 500px
 }
+
 
 /*Media query: tablets (768px and up)*/
 @media screen and (min-width: 768px) {
