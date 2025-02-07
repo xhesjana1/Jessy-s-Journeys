@@ -157,7 +157,14 @@ background: url("../images/zen-stones-balanced-beach-with-copy-space-sunrise-lig
     color: black;
 }
 
+/*Main section for travel.html site*/
 
+.travel {
+    background-color: #fcd8d8;
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
 
 /*Footer*/
 footer {
@@ -177,6 +184,7 @@ footer {
     font-size: x-large; 
 }
 
+/*fix card img*/
 .card-img-top {
     object-fit: cover;
     height: 500px
@@ -216,7 +224,7 @@ footer {
  
    .card-img-top {
     object-fit: cover;
-    height: 400px
+    min-height: auto;
     }
 }
 
@@ -231,5 +239,10 @@ footer {
     width: 20%;
     top: 70px;
     left: 0.9%;
+   }
+
+   /*Main section for travel.html site*/
+   .card-img-top {
+    object-fit: cover;
    }
 }
