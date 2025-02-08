@@ -126,6 +126,9 @@ main {
 }
 
 /*Main section for about.html site*/
+#about-jessy {
+    background-color: #f5d4eb;
+}
 
 #my-journey {
     font-family: 'Times New Roman', Times, serif;
@@ -138,7 +141,7 @@ main {
     padding: 10px;
     font-size: large;
     text-align: center;
-    color: black
+    color: black;
 }
 
 /*Detail section for about.html site*/
@@ -161,7 +164,6 @@ main {
 }
 
 .travel {
-    background-color: #fcd8d8;
     text-align: center;
     color: black;
     padding: 20px;
