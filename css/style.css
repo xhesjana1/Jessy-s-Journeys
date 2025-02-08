@@ -110,16 +110,22 @@ main {
     background: url("../images/hero-image.jpg") no-repeat center center/cover;
 }
 
-#cover-text h1, h2 {
+#cover-text h1 {
     font-family: 'Times New Roman', Times, serif;
     color: white;
     margin-left: 15px;
 }
 
+#cover-text h2 {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15px;
+   
+}
+
 #cover-text {
     background: rgba(82, 80, 80, 0.7); 
     color: white; 
-    padding: 15px; 
+    padding: 10px; 
     display: inline-block;
     border-radius: 5px;
     width: 100%;
@@ -127,29 +133,27 @@ main {
     top: auto;
 }
 
-#about {
-    background-color: #ffffff;
-    font-family: 'Lato', sans-serif;
-}
-
 /*Main section for about.html site*/
 
-#about-hero-image p {
+#my-journey {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+#about-me p {
     font-family: 'Lato', sans-serif;
     padding: 10px;
     font-size: large;
-    color: black;
-}
-
-#about-hero-image {
-height: 80vh;
-width: 100%;
-background: url("../images/zen-stones-balanced-beach-with-copy-space-sunrise-light-meditation-relaxation-ai-generative.jpg") no-repeat center center/cover;
+    text-align: center;
+    color: black
 }
 
 /*Detail section for about.html site*/
-#win-getaway {
-    font-family: 'Lato', sans-serif;
+
+#win-getaway h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 /*Form for about.html site*/
@@ -160,6 +164,9 @@ background: url("../images/zen-stones-balanced-beach-with-copy-space-sunrise-lig
 }
 
 /*Main section for travel.html site*/
+.travel h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 .travel {
     background-color: #fcd8d8;
