@@ -106,7 +106,7 @@ main {
 #hero {
     height: 80vh;
     width: 100%;
-    background: url("../images/hero-image.jpg") no-repeat center center/cover;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
 #cover-text h1, h2 {
