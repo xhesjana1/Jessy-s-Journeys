@@ -134,6 +134,7 @@ main {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     color: white;
+    padding: 15px;
 }
 
 #about-me p {
