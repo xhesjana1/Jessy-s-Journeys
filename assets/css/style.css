@@ -133,8 +133,8 @@ main {
 #my-journey {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    color: white;
     padding: 15px;
+    color: #000000;
 }
 
 #about-me p {
@@ -148,7 +148,8 @@ main {
 /*Detail section for about.html site*/
 
 #win-getaway {
-    background-color: #bd7e93;
+    background-color: #374955;
+    color: white;
 }
 
 #win-getaway h2 {
