@@ -102,6 +102,7 @@ main {
     flex: 1 0 auto;
     margin-top: 60px;
 }
+
 /*Hero image section*/
 #hero {
     height: 80vh;
@@ -146,7 +147,6 @@ main {
 }
 
 /*Detail section for about.html site*/
-
 #win-getaway {
     background-color: #374955;
     color: white;
@@ -199,6 +199,9 @@ footer {
     height: 500px
 }
 
+.card-body {
+min-height: 200px;
+}
 
 /*Media query: tablets (768px and up)*/
 @media screen and (min-width: 768px) {
