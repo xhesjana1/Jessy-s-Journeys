@@ -81,6 +81,11 @@ User Flow
 * ![alt text](docs/color-374955.PNG) #374955 – This color is used to separate the form from the rest of the About page's body
 
 
+# Colorkit Generato
+
+![alt text](docs/color-kit.png)
+
+
 ### Contrast Checker for colors
 
 ##The first site index.html has text of black #000000 and the background color as white  #ffffff
@@ -201,6 +206,16 @@ Travel site on smaller screens:
 Travel site on larger screens:
 
 ![alt text](docs/image-29.png)
+
+## Audio
+
+The audio is set to loop and remains hidden, as I don’t want it to be visible on the travel page. It’s a short holiday-themed song that enhances the site's vibe.
+
+I chose to include it in the travel section because it complements the holiday atmosphere. The audio automatically stops after about 30 -35 seconds, allowing users to scroll freely if they prefer not to listen.
+
+I tested the audio in Google Chrome, and it played perfectly. I also shared the link with my boyfriend, and it worked correctly on his phone samsung phone.
+
+* Please note that I asked ChatGPT how to hide the audio while ensuring it autoplayed in a loop, and it provided the necessary code, for the Audio.
 
 ## Technologies used:
 
@@ -370,6 +385,8 @@ Feedback:
 * Am I responsive -  https://ui.dev/amiresponsive?url=https://xhesjana1.github.io/Jessy-s-Journeys/
 * On the about.html site colors are taken from the colorspace website so they batch perfectly https://mycolor.space/?hex=%23C3A4BA&sub=1
 * The rest of the colors on this project were chosen by me, with some inspired by the Love Running project. I liked the look of them at the time, so I decided to reuse them for this project.
+* The audio to travel.html was taken from the https://freesound.org/people/Nancy_Sinclair/sounds/750632/
+* I got the color palette from colorkit https://colorkit.co/color-palette-generator/
 
 ##### Please note that all text in this project has been corrected by ChatGPT to ensure the grammar is displayed correctly.
 
