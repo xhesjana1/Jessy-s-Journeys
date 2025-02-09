@@ -226,6 +226,8 @@ The W3C for HTML
 
 Am I responsive
 
+Contrast Checker
+
 ## Testing:
 
 **Automatic Testing**
@@ -233,6 +235,8 @@ Am I responsive
 * The W3C for CSS
 
 * The W3C for HTML
+
+* Web AIM Contrast Checker
 
 ### Manual Testing
 
@@ -272,6 +276,11 @@ Am I responsive
 
 The warning was about URI imported not about the code: "textarea Imported style sheets are not checked in direct input and file upload modes" therefore this warning was ignored.
 
+### Contrast Checker
+
+* Passed all the checks.
+
+
 ![alt text](docs/image-35.png)
 
 CSS Validation code service Pass
@@ -309,9 +318,17 @@ travel.html site Validation service pass
 
 ### Bugs and Fixes:
 
-* Checked in lighthouse about the Accessibility
+The images folder was 15.3MB, so I compressed the images to reduce the total file size to 6.39MB. I was hoping this would improve performance, but it remained the same. This part was not required, but I took the initiative to do it so that I am prepared and know how to use the Lighthouse tool in Google DevTools.
+
+* Checked lighthouse dev tool about the Accessibility
 
 ![alt text](docs/image-6.png)
+
+## Website checked by users:
+
+Feedback:
+
+![alt text](docs/user-email-check.PNG)
 
 # Credit:
 
