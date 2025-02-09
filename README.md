@@ -72,13 +72,42 @@ User Flow
 
 ### Colors used:
 
-* ![Simple black color for the text](docs/image-9.png) Black - Simple black color for the text
+* ![Simple black color for the text](docs/image-9.png) #000000 Black - Simple black color for the text
 * ![Simple white color also know as #FFFFF for the background and the some of the text](docs/image-10.png) white - Simple white color also know as #FFFFF for the background of index.html and travel.html site. This color is also used for the text in all sites 
 * ![#3A3A3A for the box shadow](docs/image-8.png) #3A3A3A - used for the box shadow on the hero section
 * ![#A19C9C This color is used when we hover over the nav bar](docs/image-11.png)  #a19c9c - This color is used when we hover over the nav bar 
 * ![RGB (82, 80, 80), also known as #525050, is used for the hover effect on links, guiding users to the intended page.](docs/image-12.png) rgb(82, 80, 80)  - also known as color #525050. This is color is used for the hover effect on links, guiding users to the intended page.
 * ![alt text](docs/image-36.png) #c3a4ba – This color is used for the top section of the About page's body.
-* ![alt text](docs/image-37.png) #bd7e93 – This color is used to separate the form from the rest of the About page's body
+* ![alt text](docs/color-374955.PNG) #374955 – This color is used to separate the form from the rest of the About page's body
+
+
+### Contrast Checker for colors
+
+##The first site index.html has text of black #000000 and the background color as white  #ffffff
+
+The contrast checker has rated as pass
+
+![alt text](docs/We-AIM-Contrast-Checker-for-first-site-index-html.PNG)
+
+
+##The Second site about.html has text of black #000000 and the background color #c3a4ba
+
+The contrast checker has rated as pass
+
+![alt text](docs/We-AIM-Contrast-Checker-for-second-site-about-html.PNG)
+
+##The Second half of the site about.html has text of white #ffffff and the background color #374955
+
+The contrast checker has rated as pass
+
+![alt text](docs/We-AIM-Contrast-Checker-for-second-site-form-about-html.PNG)
+
+##The last site travel.html has text of black #000000 and the background color as white  #ffffff
+
+The contrast checker has rated as pass
+
+![alt text](docs/We-AIM-Contrast-Checker-for-last-site-travel-html.PNG)
+
 
 ### Fonts
 
@@ -141,21 +170,21 @@ All links on the homepage are correctly linked to the appropriate About and Trav
 
 **About site on smaller screens:**
 
-![alt text](docs/image-38.png)
+![alt text](docs/about-site-on-a-small-screen.PNG)
 
 **About site on larger screens:**
 
-![alt text](docs/image-39.png)
+This page allows users to complete the form and share their story on why they should be chosen for the giveaway trip on 31 March 2025.
+
+![alt text](docs/about-site-on-a-larger-screen.PNG)
 
 **The Form on smaller screens:**
 
-This page allows users to complete the form and share their story on why they should be chosen for the giveaway trip on 31 March 2025.
+![alt text](docs/about-site-form-on-a-small-screen.PNG)
 
-![alt text](docs/image-40.png)
+**Email address warning on larg screen:**
 
-**Email address warning on Ipad screen:**
-
-![alt text](docs/image-41.png)
+![alt text](docs/About-page-form-warning.PNG)
 
 **Submission done successfully** 
 
@@ -261,11 +290,16 @@ travel.html site Validation service pass
 
 ![alt text](docs/image-34.png)
 
-## Cloning the Repository in Gitpod
+## Creating a clone:
 
-* From your repository, click Code.
-* In the Clone section, select HTTPS and copy the repository URL.
-* Open Gitpod and paste the copied URL into the designated area to start the cloning process.
+1. From the repository, click Code.
+2. In the Clone selet HTTPS, copy the clone URL for the repository.
+3.  Paste a link into the designated area on the Gitpod.
+
+## Forking:
+1. From the repository, click Fork.
+2. Give your repository a name.
+3. Click Create fork.
 
 ## Deployment 
 * The Code Institiue student template was used to create this project.
