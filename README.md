@@ -2,7 +2,7 @@
 
 Link to a live site https://xhesjana1.github.io/Jessy-s-Journeys/
 
-![Responsive view of Jessy's Journeys](image-7.png)
+![Responsive view of Jessy's Journeys](docs/image-7.png)
 
 ## INTRODUCTION
 
@@ -72,13 +72,13 @@ User Flow
 
 ### Colors used:
 
-* ![Simple black color for the text](image-9.png) Black - Simple black color for the text
-* ![Simple white color also know as #FFFFF for the background and the some of the text](image-10.png) white - Simple white color also know as #FFFFF for the background of index.html and travel.html site. This color is also used for the text in all sites 
-* ![#3A3A3A for the box shadow](image-8.png) #3A3A3A - used for the box shadow on the hero section
-* ![#A19C9C This color is used when we hover over the nav bar](image-11.png)  #a19c9c - This color is used when we hover over the nav bar 
-* ![RGB (82, 80, 80), also known as #525050, is used for the hover effect on links, guiding users to the intended page.](image-12.png) rgb(82, 80, 80)  - also known as color #525050. This is color is used for the hover effect on links, guiding users to the intended page.
-* ![alt text](image-36.png) #c3a4ba – This color is used for the top section of the About page's body.
-* ![alt text](image-37.png) #bd7e93 – This color is used to separate the form from the rest of the About page's body
+* ![Simple black color for the text](docs/image-9.png) Black - Simple black color for the text
+* ![Simple white color also know as #FFFFF for the background and the some of the text](docs/image-10.png) white - Simple white color also know as #FFFFF for the background of index.html and travel.html site. This color is also used for the text in all sites 
+* ![#3A3A3A for the box shadow](docs/image-8.png) #3A3A3A - used for the box shadow on the hero section
+* ![#A19C9C This color is used when we hover over the nav bar](docs/image-11.png)  #a19c9c - This color is used when we hover over the nav bar 
+* ![RGB (82, 80, 80), also known as #525050, is used for the hover effect on links, guiding users to the intended page.](docs/image-12.png) rgb(82, 80, 80)  - also known as color #525050. This is color is used for the hover effect on links, guiding users to the intended page.
+* ![alt text](docs/image-36.png) #c3a4ba – This color is used for the top section of the About page's body.
+* ![alt text](docs/image-37.png) #bd7e93 – This color is used to separate the form from the rest of the About page's body
 
 ### Fonts
 
@@ -92,32 +92,32 @@ The navigation bar is a persistent feature on every page and is fully responsive
 
 **Navigation bar on large screens:**
 
-![alt text](image-14.png)
+![alt text](docs/image-14.png)
 
 **Navigation bar on small screens:**
 
-![alt text](image-15.png)
+![alt text](docs/image-15.png)
 
 ### Footer:
 
 The footer is a persistent element on every page, designed to be fully responsive and adaptable to all devices and screen resolutions. It includes a dedicated section for social media icons, which open in a new tab when clicked, allowing users to access my Snapchat, Instagram, and Facebook without interrupting their browsing experience.
 
-![alt text](image-16.png)
+![alt text](docs/image-16.png)
 
 ### Hero image:
 The hero image in Jessy's Journeys is strategically placed on the homepage to immediately capture the user's attention and convey the website's purpose. To ensure an optimal user experience, the hero section is fully responsive, adapting seamlessly to different screen sizes and devices. Additionally, the hero section features contains text that dynamically adjusts and repositions itself based on different screen sizes. It scales down on smaller devices like phones and I have made to change possitions on Ipad while maintaining a good placement on larger screens. This ensures that the text does not obstruct the background image, providing a visually appealing and readable design across all devices.
 
 **Hero on large screens:**
 
-![alt text](image-17.png)
+![alt text](docs/image-17.png)
 
 **Hero on small screens:**
 
-![alt text](image-18.png)
+![alt text](docs/image-18.png)
 
 **Hero on ipad screens:**
 
-![alt text](image-19.png)
+![alt text](docs/image-19.png)
 
 I intentionally positioned the text slightly lower on the iPad view to prevent the navigation bar from looking too cluttered. This placement ensures a clean and balanced layout, with the navigation bar at the top and the text positioned lower for better readability. At the same time, it maintains the integrity of the background image of Angkor Wat, ensuring it remains visually appealing.
 
@@ -129,11 +129,11 @@ All links on the homepage are correctly linked to the appropriate About and Trav
 
 **Who am I? section and the link brings you to about site. Image displayed on Ipad screen:**
 
-![alt text](image-23.png)
+![alt text](docs/image-23.png)
 
 **The footer section and the images with text displayed on homepage:**
 
-![alt text](image-26.png)
+![alt text](docs/image-26.png)
 
 
 
@@ -141,25 +141,25 @@ All links on the homepage are correctly linked to the appropriate About and Trav
 
 **About site on smaller screens:**
 
-![alt text](image-38.png)
+![alt text](docs/image-38.png)
 
 **About site on larger screens:**
 
-![alt text](image-39.png)
+![alt text](docs/image-39.png)
 
 **The Form on smaller screens:**
 
 This page allows users to complete the form and share their story on why they should be chosen for the giveaway trip on 31 March 2025.
 
-![alt text](image-40.png)
+![alt text](docs/image-40.png)
 
 **Email address warning on Ipad screen:**
 
-![alt text](image-41.png)
+![alt text](docs/image-41.png)
 
 **Submission done successfully** 
 
-![alt text](image-21.png)
+![alt text](docs/image-21.png)
 
 **Credit** Please note that I have used the link provided by Code Institute to ensure that users receive confirmation when the submission goes through successfully
 
@@ -167,11 +167,11 @@ This page allows users to complete the form and share their story on why they sh
 
 Travel site on smaller screens:
 
-![alt text](image-28.png)
+![alt text](docs/image-28.png)
 
 Travel site on larger screens:
 
-![alt text](image-29.png)
+![alt text](docs/image-29.png)
 
 ## Technologies used:
 
@@ -243,23 +243,23 @@ Am I responsive
 
 The warning was about URI imported not about the code: "textarea Imported style sheets are not checked in direct input and file upload modes" therefore this warning was ignored.
 
-![alt text](image-35.png)
+![alt text](docs/image-35.png)
 
 CSS Validation code service Pass
 
-![alt text](image-32.png)
+![alt text](docs/image-32.png)
 
 index.html site Validation service pass
 
-![alt text](image-31.png)
+![alt text](docs/image-31.png)
 
 about.html site Validation service pass
 
-![alt text](image-33.png)
+![alt text](docs/image-33.png)
 
 travel.html site Validation service pass
 
-![alt text](image-34.png)
+![alt text](docs/image-34.png)
 
 ## Cloning the Repository in Gitpod
 
@@ -271,13 +271,13 @@ travel.html site Validation service pass
 * The Code Institiue student template was used to create this project.
 * GitHub, navigate to my profile, and click on the repository (Jessy's Journeys). Then, go to Settings > Pages, set the Branch to Main, and click Save. Once saved, a link will appear with your live site on top of the github page
 
-![alt text](image-30.png)
+![alt text](docs/image-30.png)
 
 ### Bugs and Fixes:
 
 * Checked in lighthouse about the Accessibility
 
-![alt text](image-6.png)
+![alt text](docs/image-6.png)
 
 # Credit:
 
