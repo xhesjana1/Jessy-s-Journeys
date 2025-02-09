@@ -77,7 +77,8 @@ User Flow
 * ![#3A3A3A for the box shadow](image-8.png) #3A3A3A - used for the box shadow on the hero section
 * ![#A19C9C This color is used when we hover over the nav bar](image-11.png)  #a19c9c - This color is used when we hover over the nav bar 
 * ![RGB (82, 80, 80), also known as #525050, is used for the hover effect on links, guiding users to the intended page.](image-12.png) rgb(82, 80, 80)  - also known as color #525050. This is color is used for the hover effect on links, guiding users to the intended page.
-* ![This color is used on the body of about site](image-13.png)  #f5d4eb - This color is used on the body of about site 
+* ![alt text](image-36.png) #c3a4ba – This color is used for the top section of the About page's body.
+* ![alt text](image-37.png) #bd7e93 – This color is used to separate the form from the rest of the About page's body
 
 ### Fonts
 
@@ -140,20 +141,21 @@ All links on the homepage are correctly linked to the appropriate About and Trav
 
 **About site on smaller screens:**
 
-![alt text](image-22.png)
+![alt text](image-38.png)
 
 **About site on larger screens:**
 
-![alt text](image-25.png)
+![alt text](image-39.png)
 
 **The Form on smaller screens:**
 
 This page allows users to complete the form and share their story on why they should be chosen for the giveaway trip on 31 March 2025.
 
-![alt text](image-27.png)
+![alt text](image-40.png)
 
-**Email address warning:**
-![alt text](image-20.png)
+**Email address warning on Ipad screen:**
+
+![alt text](image-41.png)
 
 **Submission done successfully** 
 
@@ -203,7 +205,7 @@ Am I responsive
 
 * The W3C for HTML
 
-**Manual Testing**
+### Manual Testing
 
 * Navigation bar: Navbar remains fully responsive across all devices and resolutions. On mobile devices, the navigation bar successfully transitions to a hamburger menu.
 * All links are working as expected
@@ -229,26 +231,35 @@ Am I responsive
 * Desktop and monitors
 * Iphone
 
-### Validation with W3C for HTML and CSS
+### Validation with W3C for HTML
 
 * 0 warnings
 * 0 errors
 
-CSS Validation service Pass
+### Validation with W3C for CSS
 
-![alt text](image-1.png)
+* 1 warnings
+* 0 errors
+
+The warning was about URI imported not about the code: "textarea Imported style sheets are not checked in direct input and file upload modes" therefore this warning was ignored.
+
+![alt text](image-35.png)
+
+CSS Validation code service Pass
+
+![alt text](image-32.png)
 
 index.html site Validation service pass
 
-![alt text](image-2.png)
+![alt text](image-31.png)
 
 about.html site Validation service pass
 
-![alt text](image-3.png)
+![alt text](image-33.png)
 
 travel.html site Validation service pass
 
-![alt text](image-4.png)
+![alt text](image-34.png)
 
 ## Cloning the Repository in Gitpod
 
@@ -268,21 +279,27 @@ travel.html site Validation service pass
 
 ![alt text](image-6.png)
 
-### Credit:
+# Credit:
+
+#### I would also like to mention that most of the code comes from Code Institute projects that I have worked on, such as Love Running and my portfolio project. These projects were a huge source of inspiration for me, so I incorporated parts of them while combining Bootstrap code with my own content. However, the overall idea for the website was entirely mine, and my partner contributed some small ideas along the way.
+
+#### Additionally, I have made many changes throughout the development process, carefully committing and pushing them all to GitHub. The reason for these changes was the valuable feedback I received from my partner, which helped me refine the website and achieve a clear and user-friendly design.
+
+
 * Fonts - https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap
 * Favicons - taken from https://realfavicongenerator.net/
 * Social media icons are taken from font awesome - https://fontawesome.com/kits/bede36f393/download
 * The idea for designing the footer icons was inspired by the Love Running project, as it enhances the footer's visual appeal.
 * The Hero URL in style.css was taken in Cambodia by me while traveling.
-* The div class container in the footer was taken from Bootstrap https://getbootstrap.com/
-* The main section div id about the code was taken from https://getbootstrap.com/
-* The jessy-about-me image was taken in uluru Australia from me
-* The text in the <div class="container"> in the footer was my inspiration, but ChatGPT has corrected the grammar for me.
-* The text in the main section <div id="about"> was my inspiration, but ChatGPT has corrected the grammar for me.
-* The form code in about.html was taken by bootstrap https://getbootstrap.com/
-* The idea for the form in about.html and its modifications was inspired by the Code Institute challenge called Portfolio. I modified it slightly with ChatGPT to add a required section I also added another line to the form based on my own idea to ensure it aligns with what I want to display on my website. Additionally, I thought it would be nice for the user to receive a congratulations page upon submitting the form. In one of the lessons at Code Institute, I learned that if I pass the link template with POST, I would achieve that result. I incorporated this into Bootstrap so the form retains its styling while also directing the user to the congratulations page.
-The image of Uluru in Australia was taken from https://www.pexels.com/search/uluru/
+* The image on the index.html and travel.html site were taken by me and my partner while travelling.
+* The text in the div class="container" in the footer was my inspiration, but ChatGPT has corrected the grammar for me. 
+* The text in all my site's pages index.html, about.html, and travel.html was inspired by my travels. However, ChatGPT helped correct the grammar and refine the wording.
+* The bootstrap section in index.html and travel.html site was created using Bootstrap, combined with elements from a Code Institute project and my own content. https://getbootstrap.com/
+* The idea for the form in about.html and its modifications was inspired by the Code Institute challenge called Portfolio. I modified it slightly with ChatGPT to add a "required" section. Additionally, I thought it would be nice for the user to receive a congratulations page upon submitting the form. In one of the lessons at Code Institute, I learned that if I past the link template with POST. I incorporated this into Bootstrap so the form retains its styling while also directing the user to the congratulations page.
+* The image of Uluru in Australia in the trave.html site was taken from https://www.pexels.com/search/uluru/
 * Am I responsive -  https://ui.dev/amiresponsive?url=https://xhesjana1.github.io/Jessy-s-Journeys/
+* On the about.html site colors are taken from the colorspace website so they batch perfectly https://mycolor.space/?hex=%23C3A4BA&sub=1
+* The rest of the colors on this project were chosen by me, with some inspired by the Love Running project. I liked the look of them at the time, so I decided to reuse them for this project.
 
-
+##### Please note that all text in this project has been corrected by ChatGPT to ensure the grammar is displayed correctly.
 
