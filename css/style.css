@@ -127,7 +127,7 @@ main {
 
 /*Main section for about.html site*/
 #about-jessy {
-    background-color: #f5d4eb;
+    background-color: #c3a4ba;
 }
 
 #my-journey {
@@ -146,6 +146,10 @@ main {
 }
 
 /*Detail section for about.html site*/
+
+#win-getaway {
+    background-color: #bd7e93;
+}
 
 #win-getaway h2 {
     font-family: 'Times New Roman', Times, serif;
