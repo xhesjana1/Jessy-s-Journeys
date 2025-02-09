@@ -228,6 +228,14 @@ Am I responsive
 
 Contrast Checker
 
+Balsamiq
+
+## Balsamiq Wireframes
+
+![alt text](docs/balsamiq-wireframes-form.PNG)
+
+![alt text](docs/balsamiq-wireframes.PNG)
+
 ## Testing:
 
 **Automatic Testing**
@@ -318,11 +326,22 @@ travel.html site Validation service pass
 
 ### Bugs and Fixes:
 
-The images folder was 15.3MB, so I compressed the images to reduce the total file size to 6.39MB. I was hoping this would improve performance, but it remained the same. This part was not required, but I took the initiative to do it so that I am prepared and know how to use the Lighthouse tool in Google DevTools.
+There was an issue with the Bootstrap cards not displaying correctly. Even though the images were set to fit the content, they were not working as expected.
 
-* Checked lighthouse dev tool about the Accessibility
+I initially tried fixing the issue using media queries, but the problem persisted. Eventually, I realized that a media query wasn't necessary—I simply needed to set .card-body { min-height: 200px; }. This adjustment ensured that all cards displayed uniformly across all devices.
 
-![alt text](docs/image-6.png)
+The bug was successfully fixed.
+
+![alt text](docs/the-bug-was-fixed.PNG)
+
+
+## Checked lighthouse dev tool about the Accessibility for all three pages
+
+![alt text](docs/Accessibility-index-html.PNG)
+
+![alt text](docs/Accessibility-about-html.PNG)
+
+![alt text](docs/Accessibility-travel-html.PNG)
 
 ## Website checked by users:
 
