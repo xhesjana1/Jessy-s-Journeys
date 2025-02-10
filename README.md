@@ -201,21 +201,23 @@ This page allows users to complete the form and share their story on why they sh
 
 Travel site on smaller screens:
 
-![alt text](docs/image-28.png)
+![alt text](docs/travel-page-on-small-screens.PNG)
 
 Travel site on larger screens:
 
-![alt text](docs/image-29.png)
+![alt text](docs/travel-page-on-large-screens.PNG)
+
+Travel site on ipad screens:
+
+![alt text](docs/travel-page-on-ipad-screens.PNG)
 
 ## Audio
 
-The audio is set to loop and remains hidden, as I don’t want it to be visible on the travel page. It’s a short holiday-themed song that enhances the site's vibe.
+The audio is appearing correctly as per the CI requirement. It is a short holiday-themed song that enhances the site's atmosphere.
 
-I chose to include it in the travel section because it complements the holiday atmosphere. The audio automatically stops after about 30 -35 seconds, allowing users to scroll freely if they prefer not to listen.
+I chose to include it in the travel section because it complements the holiday vibe. The audio plays only when the user clicks on it, giving them the option to listen or continue scrolling freely if they prefer not to.
 
-I tested the audio in Google Chrome, and it played perfectly. I also shared the link with my boyfriend, and it worked correctly on his phone Samsung phone.
-
-* Please note that I asked ChatGPT how to hide the audio while ensuring it auto played in a loop, and it provided the necessary code, for the Audio.
+I tested the audio in Google Chrome, and it played perfectly. I also shared the link with my boyfriend, and it worked correctly on his Samsung phone.
 
 ## Technologies used:
 
