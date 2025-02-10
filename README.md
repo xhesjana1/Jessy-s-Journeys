@@ -261,6 +261,8 @@ Balsamiq
 
 * Web AIM Contrast Checker
 
+* Google chrome dev tool (Lighthouse)
+
 ### Manual Testing
 
 * Navigation bar: Navbar remains fully responsive across all devices and resolutions. On mobile devices, the navigation bar successfully transitions to a hamburger menu.
@@ -280,6 +282,10 @@ Balsamiq
 
 * The registration process is functioning correctly, with all fields required. If any details are missing, the user cannot proceed until all fields are completed. If the user forgets to enter their e.g email address, a warning message appears, prompting them to fill in the missing information. This error notification applies to all mandatory fields in the form
 * Upon submitting the form and clicking the "Enter Now" button, the user will see a confirmation window pop up with a message from Code Institute, indicating that the submission was successful.
+
+**Audio**
+
+* I manually checked the audio on my laptop using the live link in github and also shared that link with my family members to ensure it works correctly. It is already functioning properly on Google Chrome and mobile phones.
 
 **Devices used during testing**
 
