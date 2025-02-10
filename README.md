@@ -8,18 +8,18 @@ Link to a live site https://xhesjana1.github.io/Jessy-s-Journeys/
 
 This website is my first project with Code Institute as part of my Full Stack Development Course.
 
-Jessy's Journal is a web application designed to offer users a chance to win a free trip to one of my top four travel destinations. As someone passionate about traveling, I understand that not everyone has the opportunity to explore the world the way I have.
+Jessy's Journeys is a web application designed to offer users a chance to win a free trip to one of my top four travel destinations. As someone passionate about travelling, I understand that not everyone has the opportunity to explore the world the way I have.
 
 Through this website, users can browse my top travel destinations and participate in a giveaway for a free trip by following me on social media. This not only helps grow my social media presence but also allows me to give an incredible 7 day trip experience to a lucky winner.
 
-## Creater Experience
+## Creator Experience
 
 Creator Goals
 * I want my webpage to be functional.
-* I want my users to navigate the nav bar easly
+* I want my users to navigate the nav bar easily
 * I want the purpose of my webpage to be clear.
 * I want my webpage to be user-friendly.
-* I want all participants to be able to complete the form and all the 5 fields are mandatory so no detials are missed when user subbmits the form.
+* I want all participants to be able to complete the form and all the 5 fields are mandatory so no detials are missed when user submit the form.
 
 Target Audience
 
@@ -40,17 +40,17 @@ User Flow
 
 * Users should have the option to click on a link to learn more about Jessy.
 
-* About Page → Users should be able to clicking the link from the home page so it takes users to about page with more details about jessy, and the reason behind the giveaway. The page also should provide a clear and concise explanation of the contest and how users can participate.
+* About Page → Users should be able to clicking the link from the home page so it takes users to about page with more details about Jessy, and the reason behind the giveaway. The page also should provide a clear and concise explanation of the contest and how users can participate.
 
 * Giveaway Entry → Users can easily access information on how to enter the contest.
 
-* Following on Social Media & Form submission → To participate, users must follow Jessy on social media and complete the entry form. If any required fields are left blank, the form will prompt them to fill in the missing information before submission also once the form is submission will let the user know that the submission of the form was sucessfull.
+* Following on Social Media & Form submission → To participate, users must follow Jessy on social media and complete the entry form. If any required fields are left blank, the form will prompt them to fill in the missing information before submission also once the form is submission will let the user know that the submission of the form was successful.
 
 
-### Key Features implemented upone webpage release
+### Key Features implemented upon webpage release
 
  Easy Navigation – Clear and simple menu for smooth browsing.
- Mobile Responsiveness – Optimized for seamless viewing on all devices iphone, ipad, laptop, and monitor devices.
+ Mobile Responsiveness – Optimized for seamless viewing on all devices Phone, iPad, laptop, and monitor devices.
  Visually Engaging Design – Clear images and a clean layout.
  Call to Action (CTA) – Prominent buttons guiding users to follow me on social media and easy form to enter the giveaway.
  Social Media Integration – Direct links to the footer in all sites for Jessy’s social media profiles for easy following.
@@ -64,29 +64,29 @@ User Flow
  * Travel page: The travel page showcases my top destinations with images taken from each specific country.
 
 
-#### Fatures planned to implement in the future :
+#### Features planned to implement in the future :
 
 * Ability to add more destinations, blog posts, or video content.
 * Ability to search for a destination once all 40 countries have been added to the travel section. My top destinations will remain at the top, while other places to visit will appear below. I plan to implement the search bar in the navigation menu for easy access.
  
 
-### Colors used:
+### Colours used:
 
-* ![Simple black color for the text](docs/image-9.png) #000000 Black - Simple black color for the text
-* ![Simple white color also know as #FFFFF for the background and the some of the text](docs/image-10.png) white - Simple white color also know as #FFFFF for the background of index.html and travel.html site. This color is also used for the text in all sites 
+* ![Simple black colour  for the text](docs/image-9.png) #000000 Black - Simple black colour  for the text
+* ![Simple white colour  also know as #FFFFF for the background and the some of the text](docs/image-10.png) white - Simple white colour  also know as #FFFFF for the background of index.html and travel.html site. This colour  is also used for the text in all sites 
 * ![#3A3A3A for the box shadow](docs/image-8.png) #3A3A3A - used for the box shadow on the hero section
-* ![#A19C9C This color is used when we hover over the nav bar](docs/image-11.png)  #a19c9c - This color is used when we hover over the nav bar 
-* ![RGB (82, 80, 80), also known as #525050, is used for the hover effect on links, guiding users to the intended page.](docs/image-12.png) rgb(82, 80, 80)  - also known as color #525050. This is color is used for the hover effect on links, guiding users to the intended page.
-* ![alt text](docs/image-36.png) #c3a4ba – This color is used for the top section of the About page's body.
-* ![alt text](docs/color-374955.PNG) #374955 – This color is used to separate the form from the rest of the About page's body
+* ![#A19C9C This colour  is used when we hover over the nav bar](docs/image-11.png)  #a19c9c - This colour  is used when we hover over the nav bar 
+* ![RGB (82, 80, 80), also known as #525050, is used for the hover effect on links, guiding users to the intended page.](docs/image-12.png) rgb(82, 80, 80)  - also known as colour  #525050. This is colour  is used for the hover effect on links, guiding users to the intended page.
+* ![alt text](docs/image-36.png) #c3a4ba – This colour  is used for the top section of the About page's body.
+* ![alt text](docs/color-374955.PNG) #374955 – This colour  is used to separate the form from the rest of the About page's body
 
 
-# Colorkit Generato
+# Colour kit Generator
 
 ![alt text](docs/color-kit.png)
 
 
-### Contrast Checker for colors
+### Contrast Checker for colours
 
 ##The first site index.html has text of black #000000 and the background color as white  #ffffff
 
@@ -95,19 +95,19 @@ The contrast checker has rated as pass
 ![alt text](docs/We-AIM-Contrast-Checker-for-first-site-index-html.PNG)
 
 
-##The Second site about.html has text of black #000000 and the background color #c3a4ba
+##The Second site about.html has text of black #000000 and the background colour  #c3a4ba
 
 The contrast checker has rated as pass
 
 ![alt text](docs/We-AIM-Contrast-Checker-for-second-site-about-html.PNG)
 
-##The Second half of the site about.html has text of white #ffffff and the background color #374955
+##The Second half of the site about.html has text of white #ffffff and the background colour  #374955
 
 The contrast checker has rated as pass
 
 ![alt text](docs/We-AIM-Contrast-Checker-for-second-site-form-about-html.PNG)
 
-##The last site travel.html has text of black #000000 and the background color as white  #ffffff
+##The last site travel.html has text of black #000000 and the background colour  as white  #ffffff
 
 The contrast checker has rated as pass
 
@@ -139,17 +139,17 @@ The footer is a persistent element on every page, designed to be fully responsiv
 ![alt text](docs/image-16.png)
 
 ### Hero image:
-The hero image in Jessy's Journeys is strategically placed on the homepage to immediately capture the user's attention and convey the website's purpose. To ensure an optimal user experience, the hero section is fully responsive, adapting seamlessly to different screen sizes and devices. Additionally, the hero section features contains text that dynamically adjusts and repositions itself based on different screen sizes. It scales down on smaller devices like phones and I have made to change possitions on Ipad while maintaining a good placement on larger screens. This ensures that the text does not obstruct the background image, providing a visually appealing and readable design across all devices.
+The hero image in Jessy's Journeys is strategically placed on the homepage to immediately capture the user's attention and convey the website's purpose. To ensure an optimal user experience, the hero section is fully responsive, adapting seamlessly to different screen sizes and devices. Additionally, the hero section features contains text that dynamically adjusts and repositions itself based on different screen sizes. It scales down on smaller devices like phones and I have made to change positions on iPad while maintaining a good placement on larger screens. This ensures that the text does not obstruct the background image, providing a visually appealing and readable design across all devices.
 
-**Hero on large screens:**
+**Hero on larger screens:**
 
 ![alt text](docs/image-17.png)
 
-**Hero on small screens:**
+**Hero on smaller screens:**
 
 ![alt text](docs/image-18.png)
 
-**Hero on ipad screens:**
+**Hero on iPad screens:**
 
 ![alt text](docs/image-19.png)
 
@@ -187,7 +187,7 @@ This page allows users to complete the form and share their story on why they sh
 
 ![alt text](docs/about-site-form-on-a-small-screen.PNG)
 
-**Email address warning on larg screen:**
+**Email address warning on large screen:**
 
 ![alt text](docs/About-page-form-warning.PNG)
 
@@ -213,9 +213,9 @@ The audio is set to loop and remains hidden, as I don’t want it to be visible 
 
 I chose to include it in the travel section because it complements the holiday atmosphere. The audio automatically stops after about 30 -35 seconds, allowing users to scroll freely if they prefer not to listen.
 
-I tested the audio in Google Chrome, and it played perfectly. I also shared the link with my boyfriend, and it worked correctly on his phone samsung phone.
+I tested the audio in Google Chrome, and it played perfectly. I also shared the link with my boyfriend, and it worked correctly on his phone Samsung phone.
 
-* Please note that I asked ChatGPT how to hide the audio while ensuring it autoplayed in a loop, and it provided the necessary code, for the Audio.
+* Please note that I asked ChatGPT how to hide the audio while ensuring it auto played in a loop, and it provided the necessary code, for the Audio.
 
 ## Technologies used:
 
@@ -274,7 +274,7 @@ Balsamiq
 * All buttons across pages are working as expected. Buttons remain fully responsive across all devices and resolutions.
 
 **Bootstrap**
-* Grid system is working as intended successfully changing amount of collumns on smaller devices making website fully responsive.
+* Grid system is working as intended successfully changing amount of columns on smaller devices making website fully responsive.
 
 **Register form**
 
@@ -297,7 +297,7 @@ Balsamiq
 * 1 warnings
 * 0 errors
 
-The warning was about URI imported not about the code: "textarea Imported style sheets are not checked in direct input and file upload modes" therefore this warning was ignored.
+The warning was about URI imported not about the code: "text area Imported style sheets are not checked in direct input and file upload modes" therefore this warning was ignored.
 
 ### Contrast Checker
 
@@ -325,7 +325,7 @@ travel.html site Validation service pass
 ## Creating a clone:
 
 1. From the repository, click Code.
-2. In the Clone selet HTTPS, copy the clone URL for the repository.
+2. In the Clone select HTTPS, copy the clone URL for the repository.
 3.  Paste a link into the designated area on the Gitpod.
 
 ## Forking:
@@ -334,7 +334,7 @@ travel.html site Validation service pass
 3. Click Create fork.
 
 ## Deployment 
-* The Code Institiue student template was used to create this project.
+* The Code Institute student template was used to create this project.
 * GitHub, navigate to my profile, and click on the repository (Jessy's Journeys). Then, go to Settings > Pages, set the Branch to Main, and click Save. Once saved, a link will appear with your live site on top of the github page
 
 ![alt text](docs/image-30.png)
@@ -375,7 +375,7 @@ Feedback:
 * Favicons - taken from https://realfavicongenerator.net/
 * Social media icons are taken from font awesome - https://fontawesome.com/kits/bede36f393/download
 * The idea for designing the footer icons was inspired by the Love Running project, as it enhances the footer's visual appeal.
-* The Hero URL in style.css was taken in Cambodia by me while traveling.
+* The Hero URL in style.css was taken in Cambodia by me while travelling.
 * The image on the index.html and travel.html site were taken by me and my partner while travelling.
 * The text in the div class="container" in the footer was my inspiration, but ChatGPT has corrected the grammar for me. 
 * The text in all my site's pages index.html, about.html, and travel.html was inspired by my travels. However, ChatGPT helped correct the grammar and refine the wording.
@@ -383,10 +383,10 @@ Feedback:
 * The idea for the form in about.html and its modifications was inspired by the Code Institute challenge called Portfolio. I modified it slightly with ChatGPT to add a "required" section. Additionally, I thought it would be nice for the user to receive a congratulations page upon submitting the form. In one of the lessons at Code Institute, I learned that if I past the link template with POST. I incorporated this into Bootstrap so the form retains its styling while also directing the user to the congratulations page.
 * The image of Uluru in Australia in the trave.html site was taken from https://www.pexels.com/search/uluru/
 * Am I responsive -  https://ui.dev/amiresponsive?url=https://xhesjana1.github.io/Jessy-s-Journeys/
-* On the about.html site colors are taken from the colorspace website so they batch perfectly https://mycolor.space/?hex=%23C3A4BA&sub=1
-* The rest of the colors on this project were chosen by me, with some inspired by the Love Running project. I liked the look of them at the time, so I decided to reuse them for this project.
+* On the about.html site colour are taken from the colour space website so they batch perfectly https://mycolor.space/?hex=%23C3A4BA&sub=1
+* The rest of the colour  on this project were chosen by me, with some inspired by the Love Running project. I liked the look of them at the time, so I decided to reuse them for this project.
 * The audio to travel.html was taken from the https://freesound.org/people/Nancy_Sinclair/sounds/750632/
-* I got the color palette from colorkit https://colorkit.co/color-palette-generator/
+* I got the colour palette from colour kit https://colorkit.co/color-palette-generator/
 
 ##### Please note that all text in this project has been corrected by ChatGPT to ensure the grammar is displayed correctly.
 
